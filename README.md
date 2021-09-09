@@ -1,1 +1,1 @@
-Our dataset and model will be released in October.
+Our dataset will be released in October.

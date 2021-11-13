@@ -8,7 +8,21 @@ The dataset contains 220 scenes, and every scene contains two to four pairs of l
  
 ## 2. Example
 
-![png](https://github.com/kewangtt/srlefnip/blob/main/left/long_12bit/1605789834.3282194.png)
+### A left-hand image with a long exposure time
+
+![png](https://github.com/kewangtt/srlefnip/blob/main/Tools/img/leftLongImage.png)
+
+### A left-hand clean image with a short exposure time
+
+![png](https://github.com/kewangtt/srlefnip/blob/main/Tools/img/leftShortImageGt.png)
+
+### A left-hand depth image
+
+![png](https://github.com/kewangtt/srlefnip/blob/main/Tools/img/depth.png)
+
+### A left-hand normal image
+
+![png](https://github.com/kewangtt/srlefnip/blob/main/Tools/img/normal.png)
 
 ## 3. License
 

@@ -24,6 +24,13 @@ The dataset contains 220 scenes, and every scene contains two to four pairs of l
 
 ![png](https://github.com/kewangtt/srlefnip/blob/main/Tools/img/normal.png)
 
-## 3. License
+## 3. Usage
+
+We provide a Python demo.
+```
+python ./Tools/demo.py
+```
+
+## 4. License
 
 The open-source version is licensed under the GNU General Public License Version 3 (GPLv3). 

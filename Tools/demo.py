@@ -124,12 +124,6 @@ def ShowAll(filePath, LongDisparityDict, DisparityShortDict):
         row0 = cv2.hconcat((leftLongImage, rightLongImage)) / 4095.0
         row1 = cv2.hconcat((leftShortImageGt, rightShortImageGt)) / 4095.0
 
-        # cv2.imshow('leftLongImage', leftLongImage / 4095.0)
-        # cv2.imshow('rightLongImage', rightLongImage / 4095.0)
-
-        # cv2.imshow('leftShortImageGt', leftShortImageGt / 4095.0)
-        # cv2.imshow('rightShortImageGt', rightShortImageGt / 4095.0)
-
         row01 = cv2.vconcat((row0,row1))
 
         for jjd in range(0,len(shortNames),5):

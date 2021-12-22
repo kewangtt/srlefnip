@@ -1,5 +1,19 @@
 # NightCampus dataset
 
+## Citation
+
+```
+@ARTICLE{9655477,
+  author={Wang, Ke and Shen, Shaojie},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Semi-Supervised Learning: Structure, Reflectance and Lighting Estimation from a Night Image Pair}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LRA.2021.3136307}}
+```
+
 ## 1. Introduction
 
 The NightCampus dataset is a real night dataset with 12-bit raw images.

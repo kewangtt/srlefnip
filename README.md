@@ -6,11 +6,11 @@
 @ARTICLE{9655477,
   author={Wang, Ke and Shen, Shaojie},
   journal={IEEE Robotics and Automation Letters}, 
-  title={Semi-Supervised Learning: Structure, Reflectance and Lighting Estimation from a Night Image Pair}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
+  title={Semi-Supervised Learning: Structure, Reflectance and Lighting Estimation From a Night Image Pair}, 
+  year={2022},
+  volume={7},
+  number={2},
+  pages={976-983},
   doi={10.1109/LRA.2021.3136307}}
 ```
 
